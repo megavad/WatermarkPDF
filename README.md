@@ -1,7 +1,7 @@
 # WatermarkPDF
 
-WARNING!
-Once you opened PDF for watermark removal, this(PDF) file will be owerwritten!
+WARNING! Before you use this script - please read and understand:
+Once you opened PDF for watermark removal, this(PDF) file will be overwritten!
 
 Functional Description
   Simply corrupts a byte in sections which includes "Image/" (removes visibility of the watermark).
